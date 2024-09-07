@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: ../docs
+
+website:
+  title: "mindphil @ ucsf"
+  sidebar:
+    search: false
+    style: floating
+    tools:
+      - icon: discord
+        href: https://discord.gg/gwxCznRfjP
+      - icon: github
+        href: https://github.com/mindphil-ucsf
+    contents:
+      - text: "---"
+      - href: index.qmd
+        text: About
+      - events.qmd
+
+format:
+  html:
+    theme: solar
+    css: styles.css
+    toc: false

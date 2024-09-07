@@ -1,0 +1,20 @@
+::: {.column-body}
+![](figures/billy.jpg)
+:::
+
+# the<br/>Mind Science Philosophy Community<br/>@ UCSF
+
+We are a group of scholars committed to promoting the **free investigation** of Mind.
+
+This mostly involves watching interesting videos in the [Sandler Conference Center](https://ind.ucsf.edu/neuroscience-conference-center-nscc), and then talking about them over refreshments.
+
+## Connect with us!
+
+:::: {.columns}
+::: {.column}
+#### {{< bi discord >}} On [Discord](https://discord.gg/gwxCznRfjP)
+:::
+::: {.column}
+#### {{< bi github >}} On [GitHub](https://github.com/mindphil-ucsf)
+:::
+::::

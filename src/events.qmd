@@ -1,0 +1,38 @@
+---
+title: "Events"
+---
+
+## Coming up
+
+#### *Rocky IV* (1985): The Man *vs.* The Machine in academia. [film + discussion]{.faded}
+> Details coming soon!
+
+#### Fall meet & greet on the Weill Terrace. [wine + snacks]{.faded}
+> Details coming soon!
+
+
+### Proposals
+
+#### *Coherence* (2013) and the nature of reality. [film + discussion]{.faded}
+
+#### ***Simulacra & Simulation*, I** $\sim$ Are grants (hyper)real? Jean Baudrillard, death, immortality, and the state of science. [interview screening + discussion]{.faded}
+
+#### ***Simulacra & Simulation*, II** $\sim$ *The Matrix* (1999) and the (im)possibility of real change. [film + discussion]{.faded}
+
+
+## Past events
+
+### August 2024
+#### *My Dinner With Andre* (1981) and the contemporary neuroscientist. [film + discussion]{.faded}
+
+### July 2024
+#### The Chomsky-Foucault debate, and its implications for neuroscience and AI. [debate screening + discussion]{.faded}
+
+
+## Calendar
+
+Subscribe to our [Google Calendar](https://calendar.google.com/calendar/u/1?cid=ODY1OWJiOTQ2NTc3NWQ0YzBhNDBhMjM4NWUwNGEwMzhhMDYxNjlhODg2M2E0ZDcwOTE4MmE3ODE3NTBjYjI2NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to stay up to date with upcoming events!
+
+::: {.column-body-outset-right}
+<iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=2&ctz=America%2FLos_Angeles&bgcolor=%23ffffff&showTitle=0&showPrint=0&showTabs=0&showCalendars=0&src=ODY1OWJiOTQ2NTc3NWQ0YzBhNDBhMjM4NWUwNGEwMzhhMDYxNjlhODg2M2E0ZDcwOTE4MmE3ODE3NTBjYjI2NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%237986CB&color=%230B8043" style="border-width:0" width="600" height="500" frameborder="0" scrolling="no"></iframe>
+:::
