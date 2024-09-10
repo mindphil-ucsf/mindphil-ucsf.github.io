@@ -2,31 +2,39 @@
 title: "Events"
 ---
 
-## Coming up
+## Coming soon
 
-#### *Rocky IV* (1985): The Man *vs.* The Machine in academia. [film + discussion]{.faded}
-> Details coming soon!
+::: {.callout}
+### Next event
+#### ***Rocky IV*** (1985): the Man *vs.* the Machine in academia. [film + discussion.]{.faded}
+##### [Neuroscience Conference Center](https://ind.ucsf.edu/neuroscience-conference-center-nscc) ([Sandler]{.faded})
+**Thursday**, 12 September 2024\
+6–8pm
+:::
 
-#### Fall meet & greet on the Weill Terrace. [wine + snacks]{.faded}
-> Details coming soon!
+::: {.callout}
+### Following soon
+#### **Fall meet & greet** on the Weill Terrace. [wine + snacks.]{.faded}
+> Details forthcoming!
+:::
 
 
 ### Proposals
 
-#### *Coherence* (2013) and the nature of reality. [film + discussion]{.faded}
+#### ***Coherence*** (2013) and the nature of reality. [film + discussion.]{.faded}
 
-#### ***Simulacra & Simulation*, I** $\sim$ Are grants (hyper)real? Jean Baudrillard, death, immortality, and the state of science. [interview screening + discussion]{.faded}
+#### ***Simulacra & Simulation*, I** $\sim$ Are grants (hyper)real? Jean Baudrillard, death, immortality, and the state of science. [interview screening + discussion.]{.faded}
 
-#### ***Simulacra & Simulation*, II** $\sim$ *The Matrix* (1999) and the (im)possibility of real change. [film + discussion]{.faded}
+#### ***Simulacra & Simulation*, II** $\sim$ *The Matrix* (1999) and the (im)possibility of real change. [film + discussion.]{.faded}
 
 
 ## Past events
 
 ### August 2024
-#### *My Dinner With Andre* (1981) and the contemporary neuroscientist. [film + discussion]{.faded}
+#### ***My Dinner With Andre*** (1981) and the contemporary neuroscientist. [film + discussion.]{.faded}
 
 ### July 2024
-#### The Chomsky-Foucault debate, and its implications for neuroscience and AI. [debate screening + discussion]{.faded}
+#### **The Chomsky-Foucault debate** (1971), its implications for neuroscience and AI. [debate screening + discussion.]{.faded}
 
 
 ## Calendar
